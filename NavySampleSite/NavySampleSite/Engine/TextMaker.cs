@@ -30,7 +30,7 @@ namespace NavySampleSite.Engine
         { 
             get
             { 
-                return "wac@navy.lk";
+                return "wac@navy.lkk";
             }
         }
 
