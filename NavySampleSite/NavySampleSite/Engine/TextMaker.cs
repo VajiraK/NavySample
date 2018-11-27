@@ -22,7 +22,7 @@ namespace NavySampleSite.Engine
         { 
             get
             { 
-                return ReadTextFile("SiteDescription.txt);
+                return ReadTextFile("SiteDescription.txt");
             }
         }
 
