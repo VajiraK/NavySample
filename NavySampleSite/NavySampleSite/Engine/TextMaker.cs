@@ -14,7 +14,7 @@ namespace NavySampleSite.Engine
         { 
             get
             { 
-                return "ශ්‍රී ලංකා නාවික හමුදා";
+                return "ශ්‍රී ලංකා නාවික හමුදාව";
             }
         }
 
