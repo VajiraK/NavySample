@@ -9,5 +9,6 @@
 
     <address>
         <strong>Support:</strong>   <a id="lnkEmail" runat="server" href=""></a><br />
+        <b>TEST</b>
     </address>
 </asp:Content>
